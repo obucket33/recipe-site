@@ -1,1 +1,60 @@
-Hi
+*{
+	box-sizing: border-box;
+}
+body{
+	background: url(../pizza.jpg) no-repeat center;
+	background-size: cover;
+}
+body.b{
+	background: url(../nys.jpg) no-repeat center;
+	background-size: cover
+}
+div.A{
+	width: auto;
+
+}
+div.a{
+	text-align: center;
+	background-color: #d83836;
+	width: auto;
+	margin: 0 0 7% 0;
+	font-color: white;
+
+}	
+a{
+	text-decoration: none;
+
+}
+div.B{
+	background-color: #3e631c;
+	margin: 2% 0% 2% 0%;
+
+}
+h1{
+	text-align: center;
+	padding: 3%;
+}
+div.c{
+	background-color: #3d631c;
+	padding: 2%;
+	margin: 5% 0 5% 0;
+}
+div.D{
+	background-color: #fff;
+	margin: 0 auto;
+}
+.D p{
+	text-align: left;
+}
+div.E{
+	background-color: #3d631c;
+	margin: 2% 0% 2% 0;
+	padding: 3%
+	font-color: white;
+}
+div.e {
+	background-color: red;
+}
+.D img {
+	width: 10%;
+}
